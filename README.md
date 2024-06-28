@@ -1,6 +1,6 @@
 # Python Obfuscator
 
-Your Python file produces an unreadable and unintelligible `output.py`.
+Your Python file produces an unreadable and unintelligible `output.py`
 
 ## Usage
 
