@@ -16,7 +16,7 @@ Your Python file produces an unreadable and unintelligible `output.py`
 
 ## Requirements
 
-- Python 3.x
+- Python v3.11.5 Above
 - `requests` library
 - `beautifulsoup4` library
 
