@@ -32,3 +32,6 @@ Your Python file produces an unreadable and unintelligible `output.py`
     ```sh
     pip install requests beautifulsoup4
     ```
+    ```sh
+    pip install requests beautifulsoup4 pycryptodome
+    ```
