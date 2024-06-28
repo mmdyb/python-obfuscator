@@ -2,13 +2,7 @@
 
 Your Python file produces an unreadable and unintelligible `output.py`
 
-<div class="alert alert-info">
-  <strong>Note:</strong> This project is under active development.
-</div>
-
-<div class="alert alert-warning">
-  <strong>Warning:</strong> Use caution when modifying critical settings.
-</div>
+> **Note:** It works only v3.11.5 Above.
 
 ## Usage
 
