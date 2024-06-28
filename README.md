@@ -2,6 +2,14 @@
 
 Your Python file produces an unreadable and unintelligible `output.py`
 
+<div style="background-color: #f0f0f0; border-left: 6px solid #428bca; padding: 10px;">
+  <p><strong>Note:</strong> This project is under active development.</p>
+</div>
+
+<div style="background-color: #fcf8e3; border-left: 6px solid #8a6d3b; padding: 10px;">
+  <p><strong>Warning:</strong> Use caution when modifying critical settings.</p>
+</div>
+
 ## Usage
 
 1. Place the Python file you want to obfuscate in the project directory.
