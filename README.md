@@ -30,8 +30,5 @@ Your Python file produces an unreadable and unintelligible `output.py`
     ```
 3. Install the required packages:
     ```sh
-    pip install requests beautifulsoup4
-    ```
-    ```sh
     pip install requests beautifulsoup4 pycryptodome
     ```
