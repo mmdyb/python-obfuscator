@@ -19,6 +19,7 @@ Your Python file produces an unreadable and unintelligible `output.py`
 - Python v3.11.5 Above
 - `requests` library
 - `beautifulsoup4` library
+- `pycryptodome` library
 
 ## Installation
 
