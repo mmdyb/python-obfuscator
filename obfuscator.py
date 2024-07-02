@@ -18,3 +18,4 @@ with open("output.py", 'w', encoding='utf-8') as file:
     file.write(textarea.text)
 
 print("File successfully pyobfuscated as output.py!")
+input("Press any key to close...")
