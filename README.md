@@ -25,7 +25,7 @@ Your Python file produces an unreadable and unintelligible `output.py`
 
 1. Clone this repository:
     ```sh
-    git clone https://github.com/CallMyNameStar/Python-obfuscator.git
+    git clone https://github.com/CallMyNameStar/python-obfuscator.git
     ```
 2. Navigate to the project directory:
     ```sh
