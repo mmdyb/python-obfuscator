@@ -23,4 +23,4 @@ if response.status_code == 200:
     print("File successfully pyobfuscated as output.py!")
 else:
     print("Error!")
-input("Press any key to close...")
+input("Press Enter to close...")
